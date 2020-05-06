@@ -79,7 +79,7 @@
          <li class="thirdTop">L</li>         <li class="thirdTop double">:<br>;</li>             <li class="thirdTop double">"<br>'</li>
            <li class="thirdTop" style="padding:19px 30px;border-radius:20%">enter ⮨</li>
     </ul>
-     <br><br>
+     <br><br><br>
     <ul style="margin-left:4%">
         <li class="thirdTop" style="padding:18px 40px;border-radius:20%">shift ⇧</li>          <li class="thirdTop">Z</li>      <li class="thirdTop">X</li>
          <li class="thirdTop">C</li>           <li class="thirdTop">V</li>       <li class="thirdTop">B</li>
