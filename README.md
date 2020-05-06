@@ -1,5 +1,56 @@
-# keyboard
-Laptop's keyboard
+<!DOCTYPE HTML>
+<html lang="en US">
+<head>
+  <meta name="viewport" content="width=device-width,   intial-scale=1.0">
+  <title>keyboard</title>
+  <style>
+  body{
+       width:80%;    height:650px;                      margin:100px auto;
+      padding:5px;                background-color:white;
+  }
+  li{
+      color:white;       box-shadow: 0px 0px 4px 1px purple;
+  }
+
+ .c{
+     float:left;      list-style-type:none;              border-radius:30%;          cursor:pointer;
+     border:3px;        padding:5px 20px;
+     margin:1px 1px;      background-color:black;
+      }
+ li:hover {
+	background-color:grey;  }
+ .unique{
+     list-style-type:none;      border-radius:10%;         background-color:black;
+     margin:1px 1px;                float:left;                padding:20px 14px;                cursor:pointer;
+ }
+ .secondTop{
+     float:left;      list-style-type:none;              border-radius:30%;
+     border:3px;      border:2px;                        padding:20px 24px;            cursor:pointer;
+     margin:1px 1px 1px 1px;    background-color:black;    top:0px;
+ }
+  .thirdTop{
+     float:left;      list-style-type:none;              border-radius:30%;             ;
+     border:3px;      border:2px;                        padding:20px 24px;                cursor:pointer;
+     margin:1px 1px 1px 1px;      background-color:black;     top:0;
+  }
+  .double {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  }
+  .last {
+      padding:10px 5px;
+  }
+.back{
+    padding:10px 20px;   border-radius:15%
+}
+.mouse{  
+     width: 350px; height: 200px;                           background-color:pink;padding:5px;
+       border-radius:10%;                                       box-shadow: 3px 2px 8px 5px black;cursor:pointer;
+}
+  </style>
+</head>
+
+<body> <div style="background-color:violet;padding:5px;border:10px solid pink; box-shadow: -20px -30px 20px  black;">
 <ul style="margin-left:4%">
         <li class="c">esc</li>         <li class="c">f1</li>          <li class="c">f2</li>
         <li class="c">f3</li>        <li class="c">f4</li>        <li class="c">f5</li>
@@ -46,3 +97,7 @@ Laptop's keyboard
     </ul>
     <br><br><br><br> <hr><br>
     <hr class="mouse">
+           </div>
+</body>
+
+</html>
