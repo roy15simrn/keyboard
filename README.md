@@ -5,7 +5,7 @@
   <title>keyboard</title>
   <style>
   body{
-       width:80%;    height:650px;                      margin:100px auto;
+       width:95%;    height:650px;                      margin:100px auto;
       padding:5px;                background-color:white;
   }
   li{
