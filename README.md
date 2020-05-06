@@ -3,7 +3,7 @@
   <title>keyboard</title>
   <style>
   body{
-       width:100%;    height:950px;                      margin:100px auto;
+       width:80%;    height:350px;                      margin:100px auto;
       padding:5px;                background-color:white;
   }
   li{
@@ -42,7 +42,7 @@
     padding:10px 20px;   border-radius:15%
 }
 .mouse{  
-     width: 350px; height: 200px;                           background-color:pink;padding:5px;
+     width: 250px; height: 150px;                           background-color:pink;padding:5px;
        border-radius:10%;                                       box-shadow: 3px 2px 8px 5px black;cursor:pointer;
 }
   </style>
@@ -93,7 +93,7 @@
          <li class="thirdTop double last">⌥<br>option</li>        <li class="thirdTop"><</li>           <li class="thirdTop double lst">^<br>˅</li>
          <li class="thirdTop">&gt;</li>
     </ul>
-    <br><br><br><br> <hr><br>
+    <br><br><br><br> <hr>
     <hr class="mouse">
            </div>
 </body>
