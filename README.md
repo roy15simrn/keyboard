@@ -1,5 +1,3 @@
-<!DOCTYPE HTML>
-<html lang="en US">
 <head>
   <meta name="viewport" content="width=device-width,   intial-scale=1.0">
   <title>keyboard</title>
